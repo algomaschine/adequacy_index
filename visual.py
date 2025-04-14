@@ -131,6 +131,64 @@ CONFIG = {
                     "Guarantee remote work permanently",
                     "Automate promotion decisions"
                 ]
+            },
+            "feelings": {
+                "blue": [
+                    "Mindful vigilance",
+                    "Analytical clarity",
+                    "Protective wisdom",
+                    "Measured confidence",
+                    "Strategic patience",
+                    "Calm assessment",
+                    "Thoughtful consideration",
+                    "Balanced judgment",
+                    "Careful optimism",
+                    "Professional focus",
+                    "Ethical awareness",
+                    "Controlled progress"
+                ],
+                "red": [
+                    "Decision paralysis",
+                    "Overwhelming dread",
+                    "System overload",
+                    "Complete shutdown",
+                    "Trust collapse",
+                    "Defensive panic",
+                    "Resource anxiety",
+                    "Control loss",
+                    "Team fragmentation",
+                    "Process chaos",
+                    "Morale crash",
+                    "Structural failure"
+                ],
+                "green": [
+                    "Growth momentum",
+                    "Strategic flow",
+                    "Team synergy",
+                    "Innovation spark",
+                    "Leadership clarity",
+                    "Development drive",
+                    "Success alignment",
+                    "Cultural harmony",
+                    "Talent flourishing",
+                    "Vision realization",
+                    "Achievement high",
+                    "Excellence pride"
+                ],
+                "yellow": [
+                    "Reckless euphoria",
+                    "Control illusion",
+                    "Risk blindness",
+                    "Impulsive rush",
+                    "Power intoxication",
+                    "Reality distortion",
+                    "FOMO pressure",
+                    "Overconfidence trap",
+                    "Decision mania",
+                    "Process addiction",
+                    "Change obsession",
+                    "System overreach"
+                ]
             }
         },
         "Relationship Processes": {
@@ -248,6 +306,64 @@ CONFIG = {
                     "Purchase matching tattoos",
                     "Cosign mortgage immediately",
                     "Purchase joint life insurance"
+                ]
+            },
+            "feelings": {
+                "blue": [
+                    "Mindful presence",
+                    "Emotional balance",
+                    "Secure boundaries",
+                    "Thoughtful care",
+                    "Patient understanding",
+                    "Clear communication",
+                    "Mutual respect",
+                    "Calm reflection",
+                    "Gentle curiosity",
+                    "Stable connection",
+                    "Trust building",
+                    "Conscious growth"
+                ],
+                "red": [
+                    "Emotional shutdown",
+                    "Trust collapse",
+                    "Abandonment fear",
+                    "Defensive walls",
+                    "Relationship anxiety",
+                    "Connection loss",
+                    "Betrayal trauma",
+                    "Emotional flooding",
+                    "Communication freeze",
+                    "Attachment panic",
+                    "Identity crisis",
+                    "Social isolation"
+                ],
+                "green": [
+                    "Deep connection",
+                    "Mutual flourishing",
+                    "Secure attachment",
+                    "Emotional intimacy",
+                    "Shared joy",
+                    "Growth synergy",
+                    "Trust abundance",
+                    "Love expansion",
+                    "Relationship flow",
+                    "Future excitement",
+                    "Partnership pride",
+                    "Harmonious bond"
+                ],
+                "yellow": [
+                    "Relationship addiction",
+                    "Boundary collapse",
+                    "Obsessive attachment",
+                    "Identity fusion",
+                    "Emotional flooding",
+                    "Dependency spiral",
+                    "Control mania",
+                    "Reality distortion",
+                    "Commitment rush",
+                    "Trust blindness",
+                    "Passion overdrive",
+                    "Merger mania"
                 ]
             }
         },
@@ -367,6 +483,64 @@ CONFIG = {
                     "Promise exclusive partnerships",
                     "Promise board seat access"
                 ]
+            },
+            "feelings": {
+                "blue": [
+                    "Strategic focus",
+                    "Analytical clarity",
+                    "Controlled patience",
+                    "Data confidence",
+                    "Risk awareness",
+                    "Measured trust",
+                    "Professional detachment",
+                    "Tactical readiness",
+                    "Calm assessment",
+                    "Objective judgment",
+                    "Strategic composure",
+                    "Prepared mindset"
+                ],
+                "red": [
+                    "Negotiation anxiety",
+                    "Power loss",
+                    "Trust breakdown",
+                    "Decision paralysis",
+                    "Value erosion",
+                    "Position weakness",
+                    "Control loss",
+                    "Defensive panic",
+                    "Resource drain",
+                    "Strategy collapse",
+                    "Confidence crash",
+                    "Deal anxiety"
+                ],
+                "green": [
+                    "Value creation",
+                    "Strategic flow",
+                    "Deal momentum",
+                    "Partnership synergy",
+                    "Negotiation mastery",
+                    "Trust building",
+                    "Win-win confidence",
+                    "Growth alignment",
+                    "Deal enthusiasm",
+                    "Strategic clarity",
+                    "Value optimization",
+                    "Success momentum"
+                ],
+                "yellow": [
+                    "Power intoxication",
+                    "Control illusion",
+                    "Deal obsession",
+                    "Risk blindness",
+                    "Victory addiction",
+                    "Reality distortion",
+                    "Dominance rush",
+                    "Overconfidence trap",
+                    "Position mania",
+                    "Trust recklessness",
+                    "Strategy gambling",
+                    "Power euphoria"
+                ]
             }
         },
         "Financial Trading": {
@@ -485,6 +659,64 @@ CONFIG = {
                     "Short volatility ETFs",
                     "Trade without hedging"
                 ]
+            },
+            "feelings": {
+                "blue": [
+                    "Risk awareness",
+                    "Analytical focus",
+                    "Strategic patience",
+                    "Data confidence",
+                    "Market respect",
+                    "Position control",
+                    "Systematic calm",
+                    "Technical clarity",
+                    "Capital preservation",
+                    "Trend awareness",
+                    "Risk management",
+                    "Strategic composure"
+                ],
+                "red": [
+                    "Market panic",
+                    "Loss paralysis",
+                    "Portfolio anxiety",
+                    "Value erosion",
+                    "Position fear",
+                    "Trading freeze",
+                    "Capital flight",
+                    "Market trauma",
+                    "Strategy collapse",
+                    "Risk spiral",
+                    "Confidence crash",
+                    "Account dread"
+                ],
+                "green": [
+                    "Trading flow",
+                    "Growth momentum",
+                    "Position confidence",
+                    "Market mastery",
+                    "Strategy synergy",
+                    "Portfolio harmony",
+                    "Profit satisfaction",
+                    "Investment clarity",
+                    "Trend alignment",
+                    "Success momentum",
+                    "Value creation",
+                    "Trading excellence"
+                ],
+                "yellow": [
+                    "Trading addiction",
+                    "Risk euphoria",
+                    "Position mania",
+                    "Market obsession",
+                    "FOMO overdrive",
+                    "Leverage intoxication",
+                    "Profit blindness",
+                    "Strategy gambling",
+                    "Trading trance",
+                    "Market invincibility",
+                    "Position greed",
+                    "Account overconfidence"
+                ]
             }
         }
     }
@@ -554,11 +786,10 @@ def render_diagrams(domain, content_type, ax, emoji_font):
     for qd in quadrant_data:
         content = CONFIG['domains'][domain][content_type][qd['color_name']]
         y_start = qd['pos'][1] + 0.45  # Starting position
-        line_height = 0.075  # Further reduced line height to fit 12 items
-        fontsize = 5  # Keep current font size
+        line_height = 0.075  # Same for all content types
+        fontsize = 5  # Same base size for all
         
-        # Content items only (no icons/titles in quadrants)
-        for i, text in enumerate(content[:12]):  # Show all 12 items
+        for i, text in enumerate(content[:12]):
             y_pos = y_start - (i * line_height)
             ax.text(qd['pos'][0], y_pos, text,
                     fontsize=fontsize, 
@@ -648,11 +879,12 @@ def generate_all_diagrams():
         emoji_font = font_manager.FontProperties(family='Segoe UI Emoji')
     
     for domain in CONFIG['domains']:
-        fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(12, 14), dpi=300)
+        fig, (ax1, ax2, ax3) = plt.subplots(3, 1, figsize=(12, 21), dpi=300)  # Increased height for 3 plots
         fig.patch.set_facecolor('#FFFFFF')
         
         render_diagrams(domain, 'phrases', ax1, emoji_font)
         render_diagrams(domain, 'actions', ax2, emoji_font)
+        render_diagrams(domain, 'feelings', ax3, emoji_font)
         
         plt.tight_layout(pad=2.0)
         filename = f"{domain.lower().replace(' ', '_')}_adequacy_index.png"
